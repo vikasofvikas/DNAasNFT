@@ -1,10 +1,7 @@
 # dna_as_nft
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+It is an app that enables users to deploy their DNA string to the blockchain and make it as NFT. 
 
 A few resources to get you started if this is your first Flutter project:
 
